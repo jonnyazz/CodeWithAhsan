@@ -1,0 +1,22 @@
+html, body {
+    font-family: 'Heebo', sans-serif;
+}
+
+.blog-item h3 {
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 44px;
+    color: #21243d;
+}
+
+.blog-item p {
+    background-color: red;
+}
+
+.blog-item .publish-date {
+    background-color: greenyellow;
+}
+
+.blog-item .publish-place {
+    background-color: burlywood;
+}
