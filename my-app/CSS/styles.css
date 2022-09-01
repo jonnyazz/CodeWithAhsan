@@ -1,5 +1,7 @@
 html, body {
     font-family: 'Heebo', sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
 .blog-item h3 {
@@ -7,6 +9,7 @@ html, body {
     font-size: 30px;
     line-height: 44px;
     color: #21243d;
+    
 }
 
 .blog-item p {
@@ -20,3 +23,9 @@ html, body {
 .blog-item .publish-place {
     background-color: burlywood;
 }
+
+button {
+    background-color: rgb(22, 110, 243);
+    margin: 50px;
+}
+
